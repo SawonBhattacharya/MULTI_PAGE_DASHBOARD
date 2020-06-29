@@ -1,5 +1,3 @@
 multi
-data
-assets
 *.pyc
 .env
