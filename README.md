@@ -59,5 +59,5 @@ After all these steps have been completed successfully, you will be able to the 
         I am trying to host it on a platform. Though I have tried to host it on Herokuapp due to timeout during callbacks it has failed.
 ### Demo Link:
     
-    <a href="https://youtu.be/SlPtlaAIG24" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+    <a href="https://youtu.be/SlPtlaAIG24" target="_blank">Check the Demo</a>
 
