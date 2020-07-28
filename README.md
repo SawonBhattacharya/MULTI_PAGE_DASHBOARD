@@ -24,18 +24,18 @@ Dashboard will provide every possible kind of data from winning percentage to av
 2. Dash
          Dash is an open source Python framework for building web applications, created and maintained by the people at Plotly. Dash’s web graphics are completely interactive because the framework is built on top of Ploty.js, a JavaScript library written and maintained by Ploty. This means that after importing the Dash framework into a Python file you can build a web application writing strictly in Python with no other languages necessary. 
 
-         Installation of Dash in anaconda prompt
-        ```bash
-        pip install dash
-        ```
+Installation of Dash in anaconda prompt
+```bash
+    pip install dash
+```
 3. Dash Bootsrap Components
         dash-bootstrap-components is a library of Bootstrap components for Plotly Dash, that makes it easier to build consistently styled apps with complex, responsive layouts.Once installed, just link a Bootstrap stylesheet and start using the components exactly like you would use other Dash component libraries.
         Bootstrap components are available as native Dash components to let you easily incorporate them into your Dash apps. Each component exposes a number of props to let you control the behaviour with Dash callbacks.
         Dash Bootstrap Components is compatible with any Bootstrap v4 stylesheet of your choice. Learn how to customise the look of your app using the bundled themes or your own custom themes.
-         Installation of Dash Bootsrap Components in anaconda prompt
-        ```bash
+Installation of Dash Bootsrap Components in anaconda prompt:
+```bash
         pip install dash-bootstrap-components
-        ```
+```
 
 Install all the other system requirments by:
 ```bash 
