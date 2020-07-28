@@ -13,27 +13,27 @@ Dashboard will provide every possible kind of data from winning percentage to av
 
 ## Framework & Packages
 
-    * Plotly
+1. Plotly
         Plotly Python is a library which helps in data visualisation in an interactive manner. But you might be wondering why do we need Plotly when we already have matplotlib which does the same thing. Plotly was created to make data more meaningful by having interactive charts and plots which could be created online as well. The fact that we could visualise data online removed a lot of hurdles which are associated with the offline usage of a library. However, Plotly can be used as both, an offline as well as online tool, thus giving us the best of both worlds.
 
         Installation of Plotly in anaconda prompt
-        ```
+        ```bash
         pip install plotly
         ```
 
-    * Dash
+2. Dash
          Dash is an open source Python framework for building web applications, created and maintained by the people at Plotly. Dash’s web graphics are completely interactive because the framework is built on top of Ploty.js, a JavaScript library written and maintained by Ploty. This means that after importing the Dash framework into a Python file you can build a web application writing strictly in Python with no other languages necessary. 
 
          Installation of Dash in anaconda prompt
-        ```
+        ```bash
         pip install dash
         ```
-    * Dash Bootsrap Components
+3. Dash Bootsrap Components
         dash-bootstrap-components is a library of Bootstrap components for Plotly Dash, that makes it easier to build consistently styled apps with complex, responsive layouts.Once installed, just link a Bootstrap stylesheet and start using the components exactly like you would use other Dash component libraries.
         Bootstrap components are available as native Dash components to let you easily incorporate them into your Dash apps. Each component exposes a number of props to let you control the behaviour with Dash callbacks.
         Dash Bootstrap Components is compatible with any Bootstrap v4 stylesheet of your choice. Learn how to customise the look of your app using the bundled themes or your own custom themes.
          Installation of Dash Bootsrap Components in anaconda prompt
-        ```
+        ```bash
         pip install dash-bootstrap-components
         ```
 
