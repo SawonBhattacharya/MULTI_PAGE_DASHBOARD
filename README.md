@@ -56,8 +56,7 @@ After all these steps have been completed successfully, you will be able to the 
     After successfully running the main.py file in the browser you can see the homepage of the dashboard.The home ppage mainly contains the details of each team(home away win&loss percentage, team wise win&loss percentage, top run getter and biggest hitters of each team). Other pages like Batsman contains the seasonwise batting details of all the batsmen who have participated in IPL, same goes for Bowler page. The last page is about grounds.It contains the map and each home ground is located on the map with the average scores of first inning as well as second inning.
 
 ### Fututre Scope
-        I am trying to host it on a platform. Though I have tried to host it on Herokuapp due to timeout during callbacks it has failed.
-### Demo Link:
-    
-    <a href="https://youtu.be/SlPtlaAIG24>Check the Demo</a>
+    I am trying to host it on a platform. Though I have tried to host it on Herokuapp due to timeout during callbacks it has failed.
+
+<a href="https://youtu.be/SlPtlaAIG24>Check the Demo</a>
 
